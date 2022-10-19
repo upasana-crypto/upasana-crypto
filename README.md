@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Upasana
-- 👀 I’m interested in ML, Signal Processing, 5G, Big Data, Satellite Networks etc.
-- 🌱 I’m currently working on developing a Feature flag tool in Swisscom
-- 👀 I'm also keen to learn about the advancements and support the treatment of several neurological disorders
-- 💞️ I’m looking to collaborate on ML or Data Analytics projects
+- 👀 I’m interested in ML, Signal Processing, Big Data, 5G etc.
+- 💞️ I’m looking to collaborate on Data Science projects
+- 💕 Love for Biomedical applications of ML/DL
+- 👩 DevOps Engineer at Swisscom
+- 👩‍🎓 Information Technology and Electrical engineering at ETH Zurich
 
 <!---
 upasana-crypto/upasana-crypto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
